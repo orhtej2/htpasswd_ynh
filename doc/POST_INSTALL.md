@@ -1,7 +1,3 @@
-This is a dummy disclaimer to display after the install
+Log in with user `test` and password `test`
 
-The app url is <https://__DOMAIN____PATH__>
-
-The app install dir is `__INSTALL_DIR__`
-
-The app id is `__ID__`
+note that `https://__DOMAIN____PATH__` will send you into re-auth loop while `https://__DOMAIN____PATH__index.html` works :shrug:
